@@ -1,0 +1,36 @@
+h1{
+    display: inline-block;
+    background-color: #fed8b1;
+    width: 100px;
+    padding: 15px 10px;
+    border: 1px solid #fff; 
+    
+}
+.heading{
+    width: 250px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    background-color: #D3D3D3   ;
+    text-align: center;
+
+}
+.dot{
+    width: 10px !important;
+    background-color: #D3D3D3 !important;
+    border: none !important;
+}
+button{
+    padding: 20px 40px;
+    font-size: 24px;
+    font-weight: bold;
+    border-radius: 20px;
+    background-color: #fed8b1;
+    outline: 0;
+    border: 1px solid #fff;
+    margin: 5px;
+
+}
+.main{
+    padding-top: 50px;
+}
